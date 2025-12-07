@@ -1,2 +1,4 @@
-# stocks2.0
-New stock rating
+streamlit
+yfinance
+pandas
+numpy
